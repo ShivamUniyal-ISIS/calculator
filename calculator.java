@@ -1,4 +1,3 @@
-package priyanshu;
 import java.util.Scanner;
 
 class InvalidInput extends Exception {
